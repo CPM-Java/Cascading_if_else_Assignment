@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=java.lang.String\ evenlyDivisible(int,\ int)
+comment0.text=\n\ Determines\ if\ a\ pair\ of\ integers\ are\ eaual\ or\ factors\ and\ multiples\ of\ eachother.\n\ \n\ @param\ \ x\ \ \ an\ integer\ and\ potential\ factor\ of\ y\n\ @param\ \ y\ \ \ an\ integer\ and\ potential\ factor\ of\ x\n\ @return\ \ \ \ \ a\ String\ stating\ if\ either\ x\ or\ y\ are\ equal\ or\ factors\ and\ multiples\ of\ eachother\ \n
+numComments=1
